@@ -18,7 +18,7 @@ const stats = [
 ];
 
 const highlights = [
-  "Agile Development Process",
+  "Agile Development Process-1",
   "Dedicated IT Support",
   "Scalable Architecture",
   "Security-First Approach"
